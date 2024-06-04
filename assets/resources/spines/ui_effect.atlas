@@ -1,0 +1,76 @@
+
+ui_effect.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF-assets/AN2
+  rotate: false
+  xy: 1, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+EF-assets/AN10
+  rotate: false
+  xy: 1, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+EF-assets/AN3
+  rotate: false
+  xy: 93, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+EF-assets/AN4
+  rotate: false
+  xy: 185, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+EF-assets/AN5
+  rotate: false
+  xy: 277, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+EF-assets/AN6
+  rotate: false
+  xy: 369, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+EF-assets/AN7
+  rotate: false
+  xy: 461, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+EF-assets/AN8
+  rotate: false
+  xy: 553, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+EF-assets/AN9
+  rotate: false
+  xy: 645, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 737, 33
+  size: 58, 58
+  orig: 68, 68
+  offset: 5, 5
+  index: -1
